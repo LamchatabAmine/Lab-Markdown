@@ -49,6 +49,8 @@ Use three backticks (```) for code block. Optionally, specify the programming la
 9. **Horizontal Line** 
 ```js
 ---
+OR
+___
 ```
 10. **text UP-DOWN & strike-text**
 ```css
@@ -58,5 +60,5 @@ Use three backticks (```) for code block. Optionally, specify the programming la
 ```
 
 # Author :
-___
 [Github](https://github.com/LamchatabAmine)
+
