@@ -1,6 +1,9 @@
 
 # Lab-Markdown
 
+Welcome to the Lab Markdown repository! This space is dedicated
+to understanding and mastering the art of Markdown, a lightweight and easy-to-use markup language that allows you to format plain text.
+
 # Learn the basics of Markdown syntax:
 * Headers
 * text-styling
