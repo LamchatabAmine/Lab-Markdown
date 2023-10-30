@@ -1,6 +1,18 @@
 
 # Lab-Markdown
 
+# Learn the basics of Markdown syntax:
+* Headers
+* text-styling
+* List
+* Link
+* Images
+* Code block
+* Tables
+* Check Box List
+* Horizontal Line
+* text UP-DOWN & strike-text
+
 1. **Headers**
 ```css
 # h1
